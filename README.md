@@ -11,7 +11,3 @@ When complete, you'll be able to grab random quotes from the command line, like 
 > **$** python get-quote.py
 > 
 > Speak like a human
-
-## Start the Tutorial
-
-You can find your next step in [this repo's issues](../../issues/)!
